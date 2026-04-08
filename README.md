@@ -60,19 +60,19 @@ The project includes the following graphs:
 ## 📊 Project Visualizations
 
 ### 1️⃣ Sales Trend Over Time
-![Sales Trend](Sales_Trend.png)
+![Sales Trend](sales_trend_overtime.png)
 
 ### 2️⃣ Sales Distribution (Histogram)
-![Sales Distribution](Sales_Distribution.png)
+![Sales Distribution](sales_distribution.png)
 
 ### 3️⃣ Monthly Sales Analysis (Bar Chart)
-![Monthly Sales](Sales_Comparison.png)
+![Monthly Sales](monthly_sales.png)
 
 ### 4️⃣ Actual vs Predicted Sales
-![Actual vs Predicted](Actual_vs_Predicted_Sales.png)
+![Actual vs Predicted](actual_vs_predicted_sales.png)
 
 ### 5️⃣ Future Sales Forecast
-![Future Forecast](Future_Forecast.png)
+![Future Forecast](sales_forecast.png)
 
 
 ## Author
